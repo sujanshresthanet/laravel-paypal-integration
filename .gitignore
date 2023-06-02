@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/config/paypal.php
 .env
 .env.backup
 .phpunit.result.cache
